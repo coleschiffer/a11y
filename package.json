@@ -55,7 +55,6 @@
     "log-symbols": "^1.0.1",
     "meow": "^3.3.0",
     "parse-json": "^2.1.0",
-    "phantomjs-polyfill": "0.0.2",
     "phantomjs-prebuilt": "^2.1.12",
     "protocolify": "^2.0.0",
     "update-notifier": "^2.0.0"
